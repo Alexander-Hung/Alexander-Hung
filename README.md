@@ -8,7 +8,7 @@
   <a href="https://assets.alexander-hung.com/base/resume.pdf"><img src="https://img.shields.io/badge/Resume-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE0LjUgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjcuNUwxNC41IDJ6Ii8+PHBvbHlsaW5lIHBvaW50cz0iMTQgMiAxNCA4IDIwIDgiLz48cGF0aCBkPSJNMTIgMTh2LTYiLz48cG9seWxpbmUgcG9pbnRzPSI5IDE1IDEyIDE4IDE1IDE1Ii8+PC9zdmc+" alt="Resume" /></a>&nbsp;
 </p>
 
-<h3 align="center">I am a Full-Stack Developer specializing in scalable web architecture, front-edn systems, and AI-assisted produect developmenet.</h3>
+<h3 align="center">I am a Full-Stack Developer specializing in scalable web architecture, frontend systems, and AI-assisted product development.</h3>
 
 <br/>
 <br/>
