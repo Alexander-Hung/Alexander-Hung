@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alexander Hung | <a href="https://www.alexander-hung.com/"><img src="https://komarev.com/ghpvc/?username=alexander-hung&style=for-the-badge&label=VIEWS" alt="Portfolio" /></a></h1>
-<h3 align="center">Full Stack Developer | Software Engineer | AI Engineer</h3>
+<h3 align="center">Software Developer · Frontend focus</h3>
 <p align="center">
   <a href="https://www.alexander-hung.com/"><img src="https://img.shields.io/badge/PORTFOLIO-252525?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/alexandertrhung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzYtLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDIwLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>&nbsp;
@@ -8,18 +8,17 @@
   <a href="https://assets.alexander-hung.com/base/resume.pdf"><img src="https://img.shields.io/badge/Resume-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE0LjUgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjcuNUwxNC41IDJ6Ii8+PHBvbHlsaW5lIHBvaW50cz0iMTQgMiAxNCA4IDIwIDgiLz48cGF0aCBkPSJNMTIgMTh2LTYiLz48cG9seWxpbmUgcG9pbnRzPSI5IDE1IDEyIDE4IDE1IDE1Ii8+PC9zdmc+" alt="Resume" /></a>&nbsp;
 </p>
 
-<h3 align="center">I am a Full-Stack Developer specializing in scalable web architecture, frontend systems, and AI-assisted product development.</h3>
+<h3 align="center">I'm a software developer in Chicago with a frontend focus. I like taking an idea all the way: the data, the interface, and the last ten percent that makes it feel finished.</h3>
 
 <br/>
 <br/>
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>BS of Computer Science @ University of Hawaii at Manoa</li>
-  <li>MS of Business Information Technology @ DePaul University</li>
-  <li>1+ year of experience</li>
-  <li>On-site/Hybird/Remote: Chicago,IL | Honolulu,HI | US</li>
-  <li>Languages: English(Intermediate), Simplified Chinese(Fluent)</li>
+  <li>Software Developer (Frontend) @ Matrix Executions, Chicago</li>
+  <li>M.S. Business Information Technology @ DePaul University (2027)</li>
+  <li>B.S. Computer Science (Data Science) @ University of Hawaiʻi at Mānoa (2024)</li>
+  <li>Languages: English, Mandarin Chinese</li>
 </ul>
 
 <br/>
@@ -50,7 +49,7 @@
   <h3>Framework:<h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
